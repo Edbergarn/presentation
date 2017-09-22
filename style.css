@@ -1,0 +1,14 @@
+body {
+		font-size: 2em;
+		font-family: 'Raleway', sans-serif;
+		background-color: rgba(100, 187, 100, 0.4);
+	}
+	.rubrik{
+		color: blue;
+		font-family: 'Oswald', sans-serif;
+	}
+	#content {
+		margin: 0 auto;
+		width: 80%;
+		background-color: #888;
+	}
